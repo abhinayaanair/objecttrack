@@ -1,0 +1,5 @@
+opencv-python
+ultralytics
+sort-track
+sort
+deep_sort_realtime
