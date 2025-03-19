@@ -1,2 +1,6 @@
 ./trackenv
 trackenv
+./motpy
+./__pycache
+motpy
+__pycache__
