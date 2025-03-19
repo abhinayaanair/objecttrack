@@ -12,3 +12,6 @@ git clone https://github.com/wmuron/motpy
 cd motpy 
 make install-develop # to install editable version of library
 make test # to run all tests
+
+
+python motpy_tracker.py - motpy
