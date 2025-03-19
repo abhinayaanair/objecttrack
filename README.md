@@ -8,10 +8,10 @@
 
 MOTPY
 
-git clone https://github.com/wmuron/motpy
-cd motpy 
-make install-develop # to install editable version of library
-make test # to run all tests
+1. git clone https://github.com/wmuron/motpy
+2. cd motpy 
+3. make install-develop # to install editable version of library
+4. make test # to run all tests
 
 
-python motpy_tracker.py - motpy
+5. python motpy_tracker.py - motpy
